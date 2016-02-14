@@ -1,0 +1,3 @@
+Z. 11.
+Stworzyc system klas sluzacych do reprezentacji klasyfikatorow. Zaimplementowac klasyfikator 1R.
+Napisac interaktywny program ilustrujacy sposob wykorzystania klas.
