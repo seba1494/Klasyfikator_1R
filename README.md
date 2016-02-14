@@ -1,0 +1,1 @@
+# Klasyfikator_1R
